@@ -10,7 +10,7 @@ This project combines:
 - **Linear Regression** — for medical cost prediction
 - **Interactive Streamlit frontend** — real-time patient risk prediction
 
-## Dataset
+## Dataset used
 
 **Medical Cost Personal Dataset** from Kaggle containing 1,338 records with features:
 - `age` — Patient age
